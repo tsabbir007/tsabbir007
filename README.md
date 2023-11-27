@@ -18,16 +18,15 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/tsabbir007/tsabbir007/devcard/devcard.svg"
+      src="https://api.daily.dev/devcards/93af5e84a0014dd882d28267b54f7389.png"
     />
   </a>
 </div>
-
 <br />
 
 ## I am Sabbir Ahmed Talukdar
 
-- Next.js Developer at [Ethis](https://liilab.com/)
-- Loves Coffee and Travel
+- Next.js Developer
+- Loves Code, Coffee and Travel
 
-![Nayeem's github stats](https://github-readme-stats.vercel.app/api?username=tsabbir007&count_private=true&show_icons=true&theme=radical)
+![tsabbir's github stats](https://github-readme-stats.vercel.app/api?username=tsabbir007&count_private=true&show_icons=true&theme=radical)
